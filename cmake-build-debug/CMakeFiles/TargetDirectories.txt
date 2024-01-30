@@ -1,0 +1,3 @@
+C:/Users/timo6/CLionProjects/rocnikovy_projekt/cmake-build-debug/CMakeFiles/rocnikovy_projekt.dir
+C:/Users/timo6/CLionProjects/rocnikovy_projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timo6/CLionProjects/rocnikovy_projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
