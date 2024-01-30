@@ -1,5 +1,5 @@
 V zimnom semestri som sa na zaciatok oboznamil s pareniami v grafoch. A potom
- som implementoval backtrack, ktory riesi zadanu ulohu.
- Na vstupe dostaneme kubicky graf so 4 trciacimi hranami, mame 4 perfektne parovania
- a vieme do akych perfektnych parovani patria nase 4 trciace hrany. Nas backtrack zisti
- ci je naozaj mozne aby nase hrany patrili do danych perfektnych parovani.
+som implementoval backtrack, ktory riesi zadanu ulohu.
+Na vstupe dostaneme kubicky graf so 4 trciacimi hranami, mame 4 perfektne parovania
+a vieme do akych perfektnych parovani patria nase 4 trciace hrany. Nas backtrack zisti
+ci je naozaj mozne aby nase hrany patrili do danych perfektnych parovani.

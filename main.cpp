@@ -7,7 +7,7 @@ map<pair<int, int>, set<int>> edges;//key==dvojica vrcholov medzi ktorymi je dan
 vector<int> visited;// navstivene vrcholy
 
 //dorobit backtracking
-bool checkIfPossible(int vertex){
+bool checkIfPossible(int vertex) {
     for (int i = 1; i < G.size(); ++i) {
 
     }
@@ -30,22 +30,22 @@ int main() {
     for (int i = 0; i < 4; ++i) {
         int count = 0;
         //i je hrana, davam pre trciace hrany v ktorych parovaniach sa nachadzaju
-        while(cin >> x >> y){
+        while (cin >> x >> y) {
             count++;
             edges[make_pair(x, y)].insert(i);
             G[x].second.insert(i);
             G[y].second.insert(i);
         }
-        if (count%2 != 0){
+        if (count % 2 != 0) {
             possible = false;
         }
     }
-    if (!possible){
+    if (!possible) {
         cout << false << endl;
         return 0;
     }
     for (int i = 0; i < 4; ++i) {
-        if (G[i].second.empty() || G[i].second.size() > 2){
+        if (G[i].second.empty() || G[i].second.size() > 2) {
             cout << false << endl;
             return 0;
         }
