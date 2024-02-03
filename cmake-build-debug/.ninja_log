@@ -1,3 +1,10 @@
 # ninja log v5
-1	1770	7268525855898865	CMakeFiles/rocnikovy_projekt.dir/main.cpp.obj	b0901bad9939f04a
-1774	2043	7268525858559560	rocnikovy_projekt.exe	11ba85ebfd3e4748
+4	1947	7286235434044180	CMakeFiles/rocnikovy_projekt.dir/main.cpp.obj	43df5d2e1a64bc43
+1948	2069	7286235435245234	rocnikovy_projekt.exe	40c519acfb605c13
+27	515	7286076292075989	build.ninja	53256c2df6aa55fd
+4	2000	7286237640913434	CMakeFiles/rocnikovy_projekt.dir/main.cpp.obj	43df5d2e1a64bc43
+2001	2124	7286237642112521	rocnikovy_projekt.exe	40c519acfb605c13
+5	1885	7286238828381294	CMakeFiles/rocnikovy_projekt.dir/main.cpp.obj	43df5d2e1a64bc43
+1886	2021	7286238829720400	rocnikovy_projekt.exe	40c519acfb605c13
+3	1882	7286239288144236	CMakeFiles/rocnikovy_projekt.dir/main.cpp.obj	43df5d2e1a64bc43
+1882	2007	7286239289362989	rocnikovy_projekt.exe	40c519acfb605c13
