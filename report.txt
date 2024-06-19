@@ -10,3 +10,5 @@ V letnom semestri som sa pokracoval oboznamovat s pareniami v grafoch, a potom s
 rozsiroval moju ulohu. Namiesto zistovania pre jeden zadany graf, na vstupe
 dostanem n grafov, a chcem zistit ci moze vzniknut graf spojenim nasich n grafov, taky
 aby splnal podmienky ako graf zo zimneho semestra.
+
+V main.cpp je kod zo zimneho semestra rozsireny o casti pre riesenie letneho semestra.
