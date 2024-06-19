@@ -1,5 +1,12 @@
+ZIMA:
 V zimnom semestri som sa na zaciatok oboznamil s pareniami v grafoch. A potom
 som implementoval backtrack, ktory riesi zadanu ulohu.
 Na vstupe dostaneme kubicky graf so 4 trciacimi hranami, mame 4 perfektne parovania
 a vieme do akych perfektnych parovani patria nase 4 trciace hrany. Nas backtrack zisti
 ci je naozaj mozne aby nase hrany patrili do danych perfektnych parovani.
+
+LETO:
+V letnom semestri som sa pokracoval oboznamovat s pareniami v grafoch, a potom som
+rozsiroval moju ulohu. Namiesto zistovania pre jeden zadany graf, na vstupe
+dostanem n grafov, a chcem zistit ci moze vzniknut graf spojenim nasich n grafov, taky
+aby splnal podmienky ako graf zo zimneho semestra.
